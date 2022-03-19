@@ -2,7 +2,7 @@
 
 [ENGLISH]
 
-On March 16th, 2022, Petrobras published the list of approved candidates in its last admission exam. The list was an out-of-order plain text PDF file with the name of every single candidate who scored the bare minimum. In order to turn the information more readable, this code creates an excel file (.xlsx extension) with the candidates in decreasing order, according to the exam's classification rules. Every one of the 24 emphases, along with its respective counterparts for people with disabilities candidates and black people candidates, was saved in separated sheets in the excel file.
+On March 16th, 2022, Petrobras published the list of approved candidates in its last admission exam. The list was an out-of-order plain text PDF file with the name of every single candidate who scored the bare minimum. In order to make the information more readable, this code creates an excel file (.xlsx extension) with the candidates in decreasing order, according to the exam's classification rules. Every one of the 24 emphases, along with its respective counterparts for people with disabilities candidates and black people candidates, was saved in separated sheets in the excel file.
 
 [PORTUGUÊS]
 
